@@ -1,6 +1,6 @@
- docker build --ssh github=\Users\dawid\.ssh\id_rsa -t lab2.v1 -f Dockerfile .
+`docker build --ssh github=\Users\dawid\.ssh\id_rsa -t lab2.v1 -f Dockerfile .`
 
-#Obraz sprawozdanie1 zbudowałem za pomocą tej komendy. Klucz został pobrany ze ścieżki podanej po github=... 
+#Obraz lab2.v1 zbudowałem za pomocą tej komendy. Klucz został pobrany ze ścieżki podanej po github=... 
 
 
-Link do DockerHuba: https://hub.docker.com/repository/docker/bezqyczekpl/sprawozdanie1_v2
+Link do DockerHuba: https://hub.docker.com/repository/docker/bezqyczekpl/lab2.v1
